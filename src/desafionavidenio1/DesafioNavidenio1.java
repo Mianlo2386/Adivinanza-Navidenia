@@ -12,7 +12,7 @@ public class DesafioNavidenio1 {
         
         // Configurar la ventana
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        ventana.setSize(800, 600); // Ajusta el tamaño según sea necesario
+        ventana.setSize(700, 600); // Ajusta el tamaño según sea necesario
         ventana.setContentPane(interfaz);
         ventana.setVisible(true);
     }
